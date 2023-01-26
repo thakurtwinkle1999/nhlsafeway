@@ -1,0 +1,28 @@
+/** coronata section **/
+img {
+    width: 100%;
+}
+.coronata {
+    background: #fff;
+   padding-top: 100px;
+  
+}
+
+.coronata .titlepage {
+     padding-bottom: 0;
+}
+
+.coronata .titlepage p {
+    font-weight: normal;
+    font-size: 17px;
+    line-height: 30px;
+    color: #111111;
+    padding: 35px 0px 50px 0px;
+}
+
+
+.coronata_img figure {
+     margin: 0;
+}
+
+/** end coronata section **/
